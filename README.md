@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nuraliyev2010
+- 👋 Hi, I’m Mukhammad Sodiq
 - 👀 I’m interested in Python, Django Rest Framework and Ui Ux Figma
 - 🌱 I’m currently learning Fast API
 - 💞️ I’m looking to collaborate on you
